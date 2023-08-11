@@ -64,7 +64,7 @@ export const TechIKnow = () => {
               <b>Frameworks/Libraries</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="frameworks">
-              ExpressJS ReactJS NodeJS Redux Bootstrap Ant Design
+              ReactJS NodeJS ExpressJS Tensorflow Pytorch
               <br />
               Django-Rest-Framework
             </p>
@@ -85,7 +85,7 @@ export const TechIKnow = () => {
               <b>DevOps</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="devops">
-              Docker AWS GCP Git Netlify Kubernetes
+              Docker Github
             </p>
           </div>
           <div
@@ -123,7 +123,7 @@ export const TechIKnow = () => {
               <b>Languages</b>
             </h2>
             <p style={{ color: "rgb(168, 164, 164)" }} className="languages">
-              C/C++ Python Java JavaScript TypeScript
+              C/C++ Python Java JavaScript 
             </p>
           </div>
         </Col>
