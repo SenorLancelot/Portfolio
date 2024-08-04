@@ -1,4 +1,27 @@
 export const ExperienceContent = [
+    {
+      "company": "eQ",
+      "link": "https://www.1eq.com/home",
+      "role": "Senior Software Engineer",
+      "brief": [
+          "Full stack development for eQ’s DaaS (Data as a Service) platform."
+      ]
+    },
+   {
+    "company": "AI4Bhārat",
+    "link": "https://ai4bharat.iitm.ac.in/",
+    "role": "Full Stack Developer",
+    "brief": [
+        "Contributed to full stack development across multiple AI4Bharat platforms like Shoonya, Anudesh, Chitralekha.",
+        "Streamlined the deployment for Shoonya using CLI and Automation scripts for varying development/production use cases, reducing manual configuration required to set up the platform by 100%.",
+        "Implemented a decoupled architecture for the existing components like Celery, Redis, and Django to facilitate scaling needs of an increasing user base.",
+        "Led the backend development for a major feature overhaul of Chitralekha, consequently simplifying user journey and reducing the time required for the completion of workflows by a factor of 3x.",
+        "Deployed and integrated an LLM suite within the application to introduce a secondary transcription layer to improve translation performance for lengthy/complex transcripts.",
+        "Leveraged Docker and Azure Cloud to manage backend deployments effectively, handling site reliability issues as they occur, minimizing user impact.",
+        "Resolved bugs, introduced new features and optimizations across the board for all three platforms."
+    ]
+  }
+  ,
   {
     company: "Toplyne",
     link: "https://www.toplyne.io/",
