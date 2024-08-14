@@ -167,7 +167,7 @@ export const Projects = () => {
                 target="_blank"
                 rel="noreferrer"
                 style={{ color: "white" }}
-                href=""
+                href="https://github.com/SenorLancelot"
               >
                 GitHub
               </a>
