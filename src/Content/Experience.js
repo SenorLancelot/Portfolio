@@ -2,7 +2,7 @@ export const ExperienceContent = [
     {
       "company": "eQ",
       "link": "https://www.1eq.com/home",
-      "role": "Senior Software Engineer",
+      "role": "Software Engineer",
       "brief": [
           "Full stack development for eQ’s DaaS (Data as a Service) platform."
       ]
